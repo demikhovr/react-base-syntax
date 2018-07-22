@@ -9,3 +9,4 @@ Thumbs.db
 *.pdf
 yarn.lock
 npm-debug.log*
+build/
