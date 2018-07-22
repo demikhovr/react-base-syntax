@@ -1,0 +1,19 @@
+.UserInput {
+    padding: 6px 15px;
+    border: none;
+    border-bottom: 2px solid #3498db;
+    font-size: inherit;
+    color: #3498db;
+    text-transform: uppercase;
+    outline: none;
+    transition: all 0.3s ease;
+}
+
+.UserInput:hover {
+    border-color: #4d0095;
+}
+
+.UserInput:focus {
+    color: #4d0095;
+    border-color: #4d0095;
+}

@@ -1,0 +1,10 @@
+.UserOutput {
+	margin-bottom: 50px;
+	color: #3498db;
+	text-transform: uppercase;
+	transition: all 0.3s ease;
+}
+
+.focused {
+	color: #4d0095;
+}
